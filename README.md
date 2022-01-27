@@ -1,2 +1,1 @@
-# Rover-Launchcode
-Launch Code assignment completed.
+# Assignment completed.
